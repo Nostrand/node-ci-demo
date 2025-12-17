@@ -1,0 +1,16 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "Demo repository for learning CI/CD pipelines in Node.js using GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo Build complete"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
